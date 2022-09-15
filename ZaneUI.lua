@@ -681,7 +681,7 @@ function  ems:Toggle(text,de,callback)
     ImageLabel_Toggle.BackgroundTransparency = 1
     ImageLabel_Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     ImageLabel_Toggle.Size = UDim2.new(0, 0, 0, 0)
-    ImageLabel_Toggle.Image = "rbxassetid://5880482965"
+    ImageLabel_Toggle.Image = "rbxassetid://10893791468"
     ImageLabel_Toggle.AnchorPoint = Vector2.new(0.5, 0.5)
     ImageLabel_Toggle.Position = UDim2.new(0.47, 0, 0.5, 0)
 
@@ -1220,7 +1220,7 @@ function ems:Slder(text,min,max,de,callback)
                     
     SlisFrameStroke.Thickness = 1
     SlisFrameStroke.LineJoinMode = Enum.LineJoinMode.Round
-    SlisFrameStroke.Color = Color3.fromRGB(102, 255, 178)
+    SlisFrameStroke.Color = Color3.fromRGB(0, 204, 102)
     SlisFrameStroke.Transparency = 0
     local TalabelSlider = Instance.new("TextLabel") 
 
